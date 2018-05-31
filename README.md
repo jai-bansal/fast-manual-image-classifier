@@ -43,5 +43,6 @@ Rinse and repeat!
 Let's say you wanted to classify an image manually as either a "cat", "dog", or "neither". Assuming you have made all the necessary changes to folders and scripts, you would see:
 
 [[https://github.com/jai-bansal/fast-manual-image-classifier/reference_images/ref_one.png]]
+[[https://github.com/jai-bansal/fast-manual-image-classifier/tree/master/reference_images/ref_one.PNG]]
 
 
