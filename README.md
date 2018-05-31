@@ -38,4 +38,10 @@ delete the corresponding 'actionButton' in 'ui.R' section.
 Click the desired folder for the image. The image is deleted from the 'images' folder and put into the folder you chose.
 Rinse and repeat!
 
+### Example
+
+Let's say you wanted to classify an image manually as either a "cat", "dog", or "neither". Assuming you have made all the necessary changes to folders and scripts, you would see:
+
+[[https://github.com/jai-bansal/fast-manual-image-classifier/reference_images/ref_one.png]]
+
 
