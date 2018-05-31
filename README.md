@@ -40,7 +40,9 @@ Rinse and repeat!
 
 ### Example
 
-Let's say you wanted to classify an image manually as either a "cat", "dog", or "neither". Assuming you have made all the necessary changes to folders and scripts, you would see:
+Let's say you wanted to classify an image manually as either a "cat", "dog", or "neither". Assuming you have made all the necessary changes to folders and scripts, your 'images' folder would look like:
+
+![TEST](https://github.com/jai-bansal/fast-manual-image-classifier/blob/master/reference_images/ref_two.PNG)
 
 ![alt text](https://github.com/jai-bansal/fast-manual-image-classifier/blob/master/reference_images/ref_one.PNG)
 
