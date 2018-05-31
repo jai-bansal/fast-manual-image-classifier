@@ -42,9 +42,20 @@ Rinse and repeat!
 
 Let's say you wanted to classify an image manually as either a "cat", "dog", or "neither". Assuming you have made all the necessary changes to folders and scripts, your 'images' folder would look like:
 
-![TEST](https://github.com/jai-bansal/fast-manual-image-classifier/blob/master/reference_images/ref_two.PNG)
+![](https://github.com/jai-bansal/fast-manual-image-classifier/blob/master/reference_images/ref_two.PNG)
 
-![alt text](https://github.com/jai-bansal/fast-manual-image-classifier/blob/master/reference_images/ref_one.PNG)
+That one image is what we want to classify. The Shiny app would then look like:
+
+![](https://github.com/jai-bansal/fast-manual-image-classifier/blob/master/reference_images/ref_one.PNG)
+
+After clicking "neither", the "images" folder now looks like:
+
+![](https://github.com/jai-bansal/fast-manual-image-classifier/blob/master/reference_images/ref_three.PNG)
+
+and the "neither" folder looks like:
+
+![](https://github.com/jai-bansal/fast-manual-image-classifier/blob/master/reference_images/ref_four.PNG)
+
 
 
 
